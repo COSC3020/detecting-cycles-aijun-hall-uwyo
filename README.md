@@ -44,9 +44,9 @@ $O(E)$
 
 General:
 
-Each node is visited once, and each edge is followed once. This results in a linear traversal over both verticies AND edges
+Each node is visited once, and each edge is followed once. This results in a linear traversal over both verticies AND edges, which gives a worst case complexity of:
 
-$O(V + E)$
+$\Theta(V + E)$
 
 - Used https://www.geeksforgeeks.org/detect-cycle-in-a-graph/ to reference how to solve finding cycle problem. All code written is mine, just used as reference.
 

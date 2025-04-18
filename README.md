@@ -47,3 +47,9 @@ General:
 Each node is visited once, and each edge is followed once. This results in a linear traversal over both verticies AND edges
 
 $O(V + E)$
+
+- Used https://www.geeksforgeeks.org/detect-cycle-in-a-graph/ to reference how to solve finding cycle problem. All code written is mine, just used as reference.
+
+- Used my previous dijkstra's algorithm code for graph logic reference and how to write tests.
+
+"I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice."
